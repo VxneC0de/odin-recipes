@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Odin Recipes
 
-> One paragraph statement about the project.
+> The website will consist of a main index page that will have links to some recipes, within each one there will be related images, their ingredients, and the method of preparation using exclusively HTML for the creation of the project.
 
 ![screenshot](./app_screenshot.png)
 
