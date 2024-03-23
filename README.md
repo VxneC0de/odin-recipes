@@ -4,62 +4,37 @@
 
 > The website will consist of a main index page that will have links to some recipes, within each one there will be related images, their ingredients, and the method of preparation using exclusively HTML for the creation of the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./img/screenshot_odin_recipes.jpeg)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: English.
+- Technologies used: HTML.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://vxnec0de.github.io/odin-recipes/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+**Clone the repository in Git and run it from a browser.**
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Vanessa Carolina Rubio Cheing**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@VxneC0de](https://github.com/VxneC0de)
+- Instagram: [@v_rc20](https://www.instagram.com/v_rc20/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vanessa-rubio-7b7492293/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/VxneC0de/odin-recipes/issues).
 
 ## Show your support
 
@@ -67,9 +42,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to anyone whose code was used: I thank Google for the Information acquired for this project and Microsoft Edge for the images.
+- Inspiration: https://www.recetasgratis.net/.
 
 ## 📝 License
 
