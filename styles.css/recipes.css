@@ -162,3 +162,70 @@ body{
     content: counter(item) ". ";
     font-weight: bold;
 }
+
+
+
+.stepsPizza{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    gap: 30px;
+}
+
+.steps-part1 img{
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+.steps-part2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.steps-part2 p{
+    text-align: justify;
+    text-indent: 30px;
+    font-weight: 500;
+    color: white;
+}
+
+.steps-part2 h3{
+    font-size: 1.8rem;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.671);
+    margin-bottom: 0;
+}
+
+.steps2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 4rem;
+}
+
+.steps2 ol{
+    text-align: justify;
+    color: white;
+    padding: 0;
+    counter-reset: item;
+    list-style-type: none;
+}
+
+.steps2 ol li{
+    padding: 8px 0;
+    counter-increment: item;
+}
+
+.steps2 ol li::before{
+    content: counter(item) ". ";
+    font-weight: bold;
+}
+
