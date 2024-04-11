@@ -2,7 +2,7 @@
 
 # Odin Recipes
 
-> The website will consist of a main index page that will have links to some recipes, within each one there will be related images, their ingredients, and the method of preparation using exclusively HTML for the creation of the project.
+> The website will consist of a main index page that will have links to some recipes, within each one there will be related images, their ingredients, and the method of preparation using exclusively HTML and CSS for the creation of the project.
 
 ![screenshot](./img/screenshot_odin_recipes.jpeg)
 
@@ -10,8 +10,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages: English.
-- Technologies used: HTML.
+- Major languages: HTML, CSS.
+- Technologies used: Git Bash, Github.
 
 ## Live Demo
 
